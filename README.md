@@ -27,3 +27,5 @@ Logo Coming Soon!
 *2. Install the dependencies:*
 
 *3. Launch Tesla Optimize:*
+
+*For detailed instructions and additional information, please refer to the Documentation.*

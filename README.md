@@ -31,3 +31,6 @@ Logo Coming Soon!
 *For detailed instructions and additional information, please refer to the Documentation.*
 
 # Contributing
+
+*We welcome contributions from the open-source community! If you'd like to contribute to Tesla Optimize, please follow our Contribution Guidelines.*
+

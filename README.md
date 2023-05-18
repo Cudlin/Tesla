@@ -8,4 +8,4 @@ Logo Coming Soon!
 
 # Features
 
-*• AI-powered optimization: Leverage the latest advancements in artificial intelligence and machine learning to fine-tune your PC's hardware, resulting in enhanced performance and responsiveness.*
+*• AI-powered optimization: Leverage the latest advancements in artificial intelligence and machine learning to fine-tune  your PC's hardware, resulting in enhanced performance and responsiveness.*

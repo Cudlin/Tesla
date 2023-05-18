@@ -10,4 +10,4 @@ Logo Coming Soon!
 
 *⦿ AI-powered optimization: Leverage the latest advancements in artificial intelligence and machine learning to fine-tune your PC's hardware, resulting in enhanced performance and responsiveness.*
 
-⦿ Eliminate lag and stuttering: Say goodbye to frustrating frame drops and enjoy a smooth and seamless gaming experience.
+*⦿ Eliminate lag and stuttering: Say goodbye to frustrating frame drops and enjoy a smooth and seamless gaming experience.*

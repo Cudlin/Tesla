@@ -21,3 +21,7 @@ Logo Coming Soon!
 # Getting Started
 
 *To get started with Tesla Optimize, follow these steps:*
+
+*1. Clone the repository: git clone https://github.com/tesla-optimize/tesla-optimize.git*
+*2. Install the dependencies:*
+*3. Launch Tesla Optimize:*

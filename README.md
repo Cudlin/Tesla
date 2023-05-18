@@ -13,3 +13,5 @@ Logo Coming Soon!
 *• Eliminate lag and stuttering: Say goodbye to frustrating frame drops and enjoy a smooth and seamless gaming experience.*
 
 *• Graphics optimization: Push the boundaries of realism with advanced algorithms that unlock the true potential of your graphics card, delivering stunning visuals with unparalleled detail.*
+
+*• User-friendly interface: A sleek and intuitive interface makes it easy for gamers of all levels to harness the power of Tesla Optimize without hassle.*

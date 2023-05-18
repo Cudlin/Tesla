@@ -35,3 +35,6 @@ Logo Coming Soon!
 *We welcome contributions from the open-source community! If you'd like to contribute to Tesla Optimize, please follow our Contribution Guidelines.*
 
 # Support
+
+*If you encounter any issues or have any questions, please visit our Issue Tracker or reach out to our support team at support@teslaoptimize.com.*
+

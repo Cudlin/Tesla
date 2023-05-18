@@ -17,3 +17,5 @@ Logo Coming Soon!
 *• User-friendly interface: A sleek and intuitive interface makes it easy for gamers of all levels to harness the power of Tesla Optimize without hassle.*
 
 *• Compatibility: Designed to work seamlessly with a wide range of PC configurations, ensuring that everyone can benefit from Tesla Optimize's performance-enhancing capabilities.*
+
+# Getting Started

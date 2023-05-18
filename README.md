@@ -19,3 +19,5 @@ Logo Coming Soon!
 *• Compatibility: Designed to work seamlessly with a wide range of PC configurations, ensuring that everyone can benefit from Tesla Optimize's performance-enhancing capabilities.*
 
 # Getting Started
+
+*To get started with Tesla Optimize, follow these steps:*

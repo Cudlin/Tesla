@@ -40,3 +40,9 @@ Logo Coming Soon!
 
 # License
 *Tesla Optimize is released under the MIT License.*
+
+# Stay Connected
+*Stay up-to-date with the latest news and updates from Tesla Optimize:*
+
+*Follow us on Twitter: @TeslaOptimize*
+*Visit our Discord Server: https://www.teslaoptimize.com*

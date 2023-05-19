@@ -36,5 +36,5 @@ Logo Coming Soon!
 
 # Support
 
-*If you encounter any issues or have any questions, please visit our Issue Tracker or reach out to our support team at support@teslaoptimize.com.*
+*If you encounter any issues or have any questions, please visit our Issue Tracker or reach out to our support team at support TeslaOptimize@gmail.com*
 

@@ -45,4 +45,5 @@ Logo Coming Soon!
 *Stay up-to-date with the latest news and updates from Tesla Optimize:*
 
 *• Follow us on Twitter: @TeslaOptimize*
+
 *• Visit our Discord Server: https://www.teslaoptimize.com*
